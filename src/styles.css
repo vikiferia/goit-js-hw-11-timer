@@ -1,0 +1,37 @@
+
+body {
+  text-align: center;
+  background:white;
+  
+  font-weight: 250;
+}
+
+#timer-1 {
+  display: flex;
+  justify-content: center;
+  
+  color: rgb(197, 124, 124);
+  font-weight: 150;
+  font-size: 65px;
+ 
+}
+
+.field {
+  padding: 20px;
+  border-radius: 80px;
+  background: rgb(53, 165, 240);
+   margin-left: 20px;
+   margin-top: 50px;
+}
+
+.value {
+  display: flex;
+  padding: 40px;
+  border-radius: 80px;
+  background: #546875;
+}
+
+.label {
+  padding-top: 10px;
+  font-size: 20px;
+}
